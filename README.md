@@ -1,22 +1,13 @@
-# Simple Interest Calculator
+# This is the README.md file for the **github-final-project**
 
-## Description
-This project contains a simple shell script that calculates simple interest based on the principal amount, annual rate of interest, and time.
+A calculator that calculates simple interest given principal, annual rate of interest and time period in years.
 
-## Features
-- Calculates simple interest
-- Written in Bash
-- Easy to run from the command line
+## Input
 
-## Files
-- LICENSE
-- README.md
-- CODE_OF_CONDUCT.md
-- CONTRIBUTING.md
-- simple-interest.sh
+- p, principal amount
+- t, time period in years
+- r, annual rate of interest
 
-## Author
-MarkGalicia
+## Output
 
-## License
-This project is licensed under the Apache 2.0 License.
+simple interest = p*t*r/100
